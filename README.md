@@ -1,4 +1,7 @@
 # JPEG-to-PNG
+
+## Library used:PIL
+
 With the help of this code , jpeg images can be coverted to png images.
 I just used the library called PIL to do this.
 The code is super readable , small and clear.
